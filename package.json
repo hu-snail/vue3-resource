@@ -1,0 +1,32 @@
+{
+  "name": "vue3-resource",
+  "version": "1.0.0",
+  "description": "vue3资源库",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vitepress": "^0.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hu-snail/vue3-resource.git"
+  },
+  "keywords": [
+    "vue3",
+    "vite"
+  ],
+  "author": "hu-snail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hu-snail/vue3-resource/issues"
+  },
+  "homepage": "https://github.com/hu-snail/vue3-resource#readme"
+}
