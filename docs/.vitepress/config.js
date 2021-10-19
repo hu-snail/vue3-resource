@@ -15,26 +15,55 @@
       },
       repo: 'hu-snail/vue3-resource',
       docsRepo: 'hu-snail/vue3-resource',
-      docsBranch: 'master',
+      docsBranch: 'main',
       editLinks: true,
       logo: '/logo.png',
       editLinkText: '为此页提供修改建议',
       nav: [
-        { text: 'UI库', link: '/ui/introduction'},
+        { text: '总览', link: '/platform/introduction'},
+        { text: '移动端', link: '/platform/mobile'},
+        { 
+          text: '桌面端',
+          link: '/platform/web',
+        },
         { text: '组件库', link: '/compontents/introduction' },
     ],
     sidebar: {
-      '/ui/': [
+      '/platform/': [
         {
-          text: 'UI库',
+          text: '资源库',
           children: [
             {
-              text: '介绍',
-              link: '/ui/introduction',
+              text: '总览',
+              link: '/platform/introduction',
             },
             {
-              text: '开始',
-              link: '/ui/start',
+              text: '移动端',
+              link: '/platform/mobile',
+            },
+            {
+              text: '桌面端',
+              link: '/platform/web',
+            },
+            {
+              text: '小程序',
+              link: '/platform/mp',
+            },
+            {
+              text: 'H5',
+              link: '/platform/h5',
+            },
+            {
+              text: 'vite插件',
+              link: '/platform/vite',
+            },
+            {
+              text: 'TypeScript',
+              link: '/platform/typeScript',
+            },
+            {
+              text: '中后台管理',
+              link: '/platform/manage',
             },
           ],
         }
@@ -54,7 +83,7 @@
         'meta',
         {
           name: 'keywords',
-          content: 'vue3-admin, vitejs, vite, element-plus, vue',
+          content: 'vue3, vitejs, vite, element-plus, vue',
         },
       ],
       ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }],
@@ -66,7 +95,7 @@
             'width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no',
         },
       ],
-      ['meta', { name: 'keywords', content: 'vue vben admin docs' }],
+      ['meta', { name: 'keywords', content: 'vue3 vue' }],
       ['link', { rel: 'icon', href: '/favicon.ico' }],
     ];
   }

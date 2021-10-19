@@ -2,10 +2,10 @@
 home: true
 heroImage: /logo.png
 actionText: 立即查看 →
-actionLink: /ui/introduction
+actionLink: /platform/introduction
 
-altActionText: Github地址
+altActionText: View on GitHub
 altActionLink: https://github.com/hu-snail/vue3-resource
 
-footer: MIT Licensed | Copyright © 2021-present vue3-resource
+footer: MIT Licensed | Copyright © hu-snail 2021-present  vue3-resource
 ---
