@@ -106,4 +106,42 @@ Vuetify 是一个纯手工精心打造的 Material 样式的 Vue UI 组件库。
 - 官方文档：[文档地址](https://mand-mobile.github.io/mand-mobile-next/zh-CN/)
 - 仓库资源：[github地址](https://github.com/mand-mobile/mand-mobile-next)
 
-## 组件库资源
+## 滚动
+### BetterScroll
+使移动端滑动体验更加流畅
+
+![start](https://img.shields.io/github/stars/ustbhuangyi/better-scroll?style=social)
+
+#### 资源地址
+- 官方文档：[文档地址](https://better-scroll.github.io/docs/zh-CN/)
+- 仓库资源：[github地址](https://github.com/ustbhuangyi/better-scroll)
+- 预览地址：[预览地址](https://better-scroll.github.io/examples/)
+
+### Mescroll
+移动端上拉刷新下拉加载
+
+![start](https://img.shields.io/github/stars/ustbhuangyi/better-scroll?style=social)
+
+#### 资源地址
+- 官方文档：[文档地址](http://www.mescroll.com/api.html)
+- 仓库资源：[github地址](https://github.com/mescroll/mescroll)
+
+### FullPage.js
+非常好用的全屏滑动库
+
+![start](https://img.shields.io/github/stars/alvarotrigo/fullpage.js?style=social)
+
+#### 资源地址
+- 官方文档：[文档地址](https://github.com/alvarotrigo/fullPage.js/#fullpagejs)
+- 仓库资源：[github地址](https://github.com/alvarotrigo/fullpage.js)
+- 预览地址：[预览地址](https://alvarotrigo.com/fullPage/)
+
+## 配套
+### Fastclick 点击延迟问题
+解决移动端点击延迟的问题
+
+![start](https://img.shields.io/github/stars/ftlabs/fastclick?style=social)
+
+#### 资源地址
+- 官方文档：[文档地址](https://github.com/ftlabs/fastclick#readme)
+- 仓库资源：[github地址](https://github.com/ftlabs/fastclick)

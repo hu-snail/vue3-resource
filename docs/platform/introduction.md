@@ -1,7 +1,14 @@
 # 介绍
 ::: tip 说明
  本站专注于收集vue3相关资源，持续更新！！！
-如果这些资源对你有帮助，可以给一个 star 支持下[vue3-resource](https://github.com/hu-snail/vue3-resource)
+如果这些资源对你有帮助，可以给一个 star 支持下[vue3-resource](https://github.com/hu-snail/vue3-resource)，如果您发现有vue3优秀的开源项目请[点此推荐](https://github.com/hu-snail/vue3-resource/issues/new)
+:::
+
+## 注意事项
+::: warning 注意
+大部分资源都来自于[Github](https://github.com/),没有翻墙的情况下访问很慢！！！推荐两个免费的方式加速github访问，如果您有更好的方式欢迎[推荐](https://github.com/hu-snail/vue3-resource/issues/new)
+- 方式一：安装[dev-sidecar](https://gitee.com/docmirror/dev-sidecar) 有详细操作文档
+- 方式二：安装[佛跳墙（fotiaoqiang）](https://github.com/getfotiaoqiang/download) 
 :::
 
 ## 文档
@@ -9,6 +16,11 @@
 JavaScript 框架
 - [英文地址](https://v3.vuejs.org/)
 - [中文地址](https://v3.cn.vuejs.org/)
+
+## 官方资源
+- [vue新闻](https://news.vuejs.org/)
+- [发行说明](https://github.com/vuejs/vue/releases)
+- [API参考](https://v3.vuejs.org/api/)
 
 ## 配套
 - [Vite2](https://cn.vitejs.dev/) - 下一代前端开发与构建工具
@@ -31,6 +43,7 @@ JavaScript 框架
     - [🔥🔥🔥 Vue3.0 + Vite2 + Element-Plus 搭建后台管理模版](https://juejin.cn/post/7010666535173750797)
     - [从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境](https://juejin.cn/post/6951649464637636622)
 ### 视频
+- [Vueschool](https://vueschool.io/)
 - [Vite2 + Vue3项目最佳实践「持续更新中」](https://www.bilibili.com/video/BV1vX4y1K7bQ?p=2)
 - [李南江」Vue3.0正式版教程2020年9月19号全网首发-Vue3 One Piece 持续更新中...](https://www.bilibili.com/video/BV14k4y117LL?from=search&seid=17306204784970645166&spm_id_from=333.337.0.0)
 - [Vue3.0（正式版）+ Vite开发快速入门](https://www.bilibili.com/video/BV1SZ4y157m8?p=2)
@@ -38,6 +51,7 @@ JavaScript 框架
 - [Typescript教程_Typescript视频教程 ts入门实战视频教程-2021年更新 包含Vue3+Ts](bilibili.com/video/BV1yt411e7xV?from=search&seid=10240725489081280730&spm_id_from=333.337.0.0)
 ### 面试
 前端面试全攻略，为您保驾护航，金三银四，金九银十
+- [Vuejs面试问题](https://github.com/sudheerj/vuejs-interview-questions)
 - [2021年，vue3.0 面试题分析（干货满满，内容详尽）](https://blog.csdn.net/qq_35942348/article/details/110677399)
 - [建议收藏）Vue3 对比 Vue2.x 差异性、注意点、整体梳理，与React hook比又如何？（面试热点）](https://juejin.cn/post/6892295955844956167)
 - [Vue3.0面试题](https://segmentfault.com/a/1190000038848131)
@@ -85,6 +99,7 @@ JavaScript 框架
 工欲善其事，必先利其器。根据自己的喜好选择！！！没有一一列举
 :::
 ### 在线开发
+- [Codesandbox](https://codesandbox.io/)- 在线快速 Web 开发
 - [Bit.dev](https://bit.dev/)- 目前支持 React、Vue、Angular、Node 及其他 JavaScript 框架
 - [Stackblitz- 在线 IDE](https://stackblitz.com/)- 支持一键配置 Angular、React、Ionic、TypeScript、RxJS、Svelte 等 JavaScript 框架
 - [Codepen](https://codepen.io/)- 在线编辑器界面
