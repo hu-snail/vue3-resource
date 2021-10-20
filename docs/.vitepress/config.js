@@ -71,7 +71,20 @@
             link: '/platform/web/others',
           }]
         },
-        { text: '移动端', link: '/platform/mobile'},
+        { 
+          text: '移动端',
+          link: '/platform/mobile/introduction',
+          items: [{
+            text: 'UI库',
+            link: '/platform/mobile/ui',
+          }, {
+            text: '滚动组件',
+            link: '/platform/mobile/scroll',
+          }, {
+            text: '配套资源',
+            link: '/platform/mobile/include',
+          }]
+        },
         { text: '常用库', link: '/platform/common' },
         { text: '收藏', link: '/platform/like' },
     ],
@@ -138,7 +151,17 @@
             },
             {
               text: '移动端',
-              link: '/platform/mobile',
+              link: '/platform/mobile/introduction',
+              children: [{
+                text: 'UI库',
+                link: '/platform/mobile/ui',
+              }, {
+                text: '滚动组件',
+                link: '/platform/mobile/scroll',
+              }, {
+                text: '配套资源',
+                link: '/platform/mobile/include',
+              }]
             },
             {
               text: 'Electron',
