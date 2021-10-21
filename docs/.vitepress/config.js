@@ -4,15 +4,15 @@
  */
  module.exports = {
     base: '/',
-    title: 'vue3-resource',
+    title: 'Vue3-resource',
     lang: 'zh-CN',
-    description: '收集vue3资源',
+    description: '收集vue3资源，包含web端&移动端&小程序&Electron等栏目',
     head: createHead(),
     themeConfig: {
-      algolia: {
-        apiKey: '1885f2f9da49911be5abd90180426414',
-        indexName: 'vue3-resource'
-      },
+      // algolia: {
+      //   apiKey: '1885f2f9da49911be5abd90180426414',
+      //   indexName: 'vue3-resource'
+      // },
       repo: 'hu-snail/vue3-resource',
       docsRepo: 'hu-snail/vue3-resource',
       docsBranch: 'main',
@@ -117,6 +117,7 @@
           }]
         },
         { text: '常用库', link: '/platform/common' },
+        { text: '学习&面试', link: '/platform/study' },
         { text: '收藏', link: '/platform/like' },
     ],
     sidebar: {
@@ -206,7 +207,7 @@
             },
             {
               text: '小程序',
-              link: '/platform/mp',
+              link: '/platform/mp/project',
               children: [{
                 text: '框架',
                 link: '/platform/mp/project',
@@ -241,6 +242,7 @@
                 link: '/platform/docs&tool/vscode',
               }]
             },
+            { text: '学习&面试', link: '/platform/study' },
           ],
         }
       ]
