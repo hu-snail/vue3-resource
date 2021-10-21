@@ -3,7 +3,7 @@
  * @type {import('vitepress').UserConfig}
  */
  module.exports = {
-    base: '/',
+    base: '/vue3-resource',
     title: 'Vue3-resource',
     lang: 'zh-CN',
     description: '收集vue3资源，包含web端&移动端&小程序&Electron等栏目',
@@ -15,8 +15,8 @@
       // },
       repo: 'hu-snail/vue3-resource',
       docsRepo: 'hu-snail/vue3-resource',
-      docsBranch: 'main',
-      editLinks: false,
+      docsBranch: 'main/docs',
+      editLinks: true,
       logo: '/logo.png',
       editLinkText: '为此页提供修改建议',
       nav: [

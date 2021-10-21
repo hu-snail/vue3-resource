@@ -30,7 +30,7 @@
 - [李南江」Vue3.0正式版教程2020年9月19号全网首发-Vue3 One Piece 持续更新中...](https://www.bilibili.com/video/BV14k4y117LL?from=search&seid=17306204784970645166&spm_id_from=333.337.0.0)
 - [Vue3.0（正式版）+ Vite开发快速入门](https://www.bilibili.com/video/BV1SZ4y157m8?p=2)
 - [Vue3.0从0到1搭建管理后台系统项目实战](https://www.bilibili.com/video/BV183411B7nJ?p=59)
-- [Typescript教程_Typescript视频教程 ts入门实战视频教程-2021年更新 包含Vue3+Ts](bilibili.com/video/BV1yt411e7xV?from=search&seid=10240725489081280730&spm_id_from=333.337.0.0)
+
 
 ## 面试
 前端面试全攻略，为您保驾护航，金三银四，金九银十

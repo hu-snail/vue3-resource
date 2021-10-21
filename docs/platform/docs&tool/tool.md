@@ -25,6 +25,5 @@
 ## 其他
 - [Postman- 接口测试](https://www.postman.com/)：支持GET、POST、DELETE、OPTIONS、PUT等请求方式
 - [你的在线工具](https://tool.lu/)- 开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化...
-- [Carbon](carbon.now.sh/)-  一个在线的代码转图片工具
 - [Bejson](https://www.bejson.com/ui/compress_img/)- 在线工具，很丰富
 - [正则匹配](https://c.runoob.com/front-end/854/)- 正则表达式在线测试
