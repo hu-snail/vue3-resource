@@ -16,7 +16,7 @@
       repo: 'hu-snail/vue3-resource',
       docsRepo: 'hu-snail/vue3-resource',
       docsBranch: 'main',
-      editLinks: true,
+      editLinks: false,
       logo: '/logo.png',
       editLinkText: '为此页提供修改建议',
       nav: [
@@ -30,6 +30,9 @@
           }, {
             text: 'UI库',
             link: '/platform/web/ui',
+          }, {
+            text: '开箱即用',
+            link: '/platform/web/manage',
           }, {
             text: '富文本编辑器',
             link: '/platform/web/editor',
@@ -55,7 +58,7 @@
             text: '拖拽组件',
             link: '/platform/web/drag',
           }, {
-            text: '配套组件',
+            text: '配套资源',
             link: '/platform/web/include',
           }, {
             text: '文件组件',
@@ -78,11 +81,39 @@
             text: 'UI库',
             link: '/platform/mobile/ui',
           }, {
+            text: '开源项目',
+            link: '/platform/mobile/project',
+          }, {
             text: '滚动组件',
             link: '/platform/mobile/scroll',
           }, {
             text: '配套资源',
             link: '/platform/mobile/include',
+          }]
+        },
+        { 
+          text: '小程序',
+          link: '/platform/mp/project',
+          items: [{
+            text: '框架',
+            link: '/platform/mp/project',
+          }, {
+            text: 'UI库',
+            link: '/platform/mp/ui',
+          }]
+        },
+        { 
+          text: '文档&工具',
+          link: '/platform/docs&tool/introduction',
+          items: [{
+            text: '文档',
+            link: '/platform/docs&tool/docs',
+          }, {
+            text: '工具',
+            link: '/platform/docs&tool/tool',
+          }, {
+            text: 'vscode插件',
+            link: '/platform/docs&tool/vscode',
           }]
         },
         { text: '常用库', link: '/platform/common' },
@@ -108,6 +139,9 @@
                   text: 'UI库',
                   link: '/platform/web/ui',
                 }, {
+                  text: '开箱即用',
+                  link: '/platform/web/manage',
+                }, {
                   text: '富文本编辑器',
                   link: '/platform/web/editor',
                 }, {
@@ -132,7 +166,7 @@
                   text: '拖拽组件',
                   link: '/platform/web/drag',
                 }, {
-                  text: '配套组件',
+                  text: '配套资源',
                   link: '/platform/web/include',
                 }, {
                   text: '文件组件',
@@ -156,6 +190,9 @@
                 text: 'UI库',
                 link: '/platform/mobile/ui',
               }, {
+                text: '开源项目',
+                link: '/platform/mobile/project',
+              }, {
                 text: '滚动组件',
                 link: '/platform/mobile/scroll',
               }, {
@@ -170,6 +207,13 @@
             {
               text: '小程序',
               link: '/platform/mp',
+              children: [{
+                text: '框架',
+                link: '/platform/mp/project',
+              }, {
+                text: 'UI库',
+                link: '/platform/mp/ui',
+              }]
             },
             { 
               text: '常用库',
@@ -182,6 +226,20 @@
             {
               text: 'vite插件',
               link: '/platform/vite',
+            },
+            { 
+              text: '文档&工具',
+              link: '/platform/docs&tool/introduction',
+              children: [{
+                text: '文档',
+                link: '/platform/docs&tool/docs',
+              }, {
+                text: '工具',
+                link: '/platform/docs&tool/tool',
+              }, {
+                text: 'vscode插件',
+                link: '/platform/docs&tool/vscode',
+              }]
             },
           ],
         }

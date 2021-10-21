@@ -1,4 +1,14 @@
 # 配套
+
+## 构建
+- [Vite2](https://cn.vitejs.dev/) - 下一代前端开发与构建工具
+- [Vue CLI](https://cli.vuejs.org/migrating-from-v3/) - vue脚手架工具
+
+## 全家桶
+- [Vue Router](https://next.router.vuejs.org/zh/introduction.html) - Vue.js 的官方路由
+- [Vuex](https://next.vuex.vuejs.org/zh/index.html) - 是一个专为 Vue.js 应用程序开发的状态管理模式 + 库
+- [Axios](http://www.axios-js.com/) - 易用、简洁且高效的http库
+
 ## Nprogress.js-进度条
 进度条组件
 

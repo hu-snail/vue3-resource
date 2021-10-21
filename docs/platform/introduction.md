@@ -22,12 +22,6 @@ JavaScript 框架
 - [发行说明](https://github.com/vuejs/vue/releases)
 - [API参考](https://v3.vuejs.org/api/)
 
-## 配套
-- [Vite2](https://cn.vitejs.dev/) - 下一代前端开发与构建工具
-- [Vue CLI](https://cli.vuejs.org/migrating-from-v3/) - vue脚手架工具
-- [Vue Router](https://next.router.vuejs.org/zh/introduction.html) - Vue.js 的官方路由
-- [Vuex](https://next.vuex.vuejs.org/zh/index.html) - 是一个专为 Vue.js 应用程序开发的状态管理模式 + 库
-- [Axios](http://www.axios-js.com/) - 易用、简洁且高效的http库
 ## 学习
 建议阅读官方文档，最好的学习资料！！！
 
@@ -77,12 +71,6 @@ JavaScript 框架
 - [简书- 创作你的创作](https://www.jianshu.com/)
 - [知乎- 有问题,就会有答案](https://www.zhihu.com/)
 
-### 在线工具
-- [Postman- 接口测试](https://www.postman.com/)：支持GET、POST、DELETE、OPTIONS、PUT等请求方式
-- [你的在线工具](https://tool.lu/)- 开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化...
-- [Carbon](carbon.now.sh/)-  一个在线的代码转图片工具
-- [Bejson](https://www.bejson.com/ui/compress_img/)- 在线工具，很丰富
-- [正则匹配](https://c.runoob.com/front-end/854/)- 正则表达式在线测试
 ### 查询必备
 - [Awesomejs](https://awesomejs.dev/)- 查询你的项目使用的插件，很全！！！
 - [Devdocs- 在线查询各种编程手册的文档](https://devdocs.io/)
@@ -94,38 +82,3 @@ JavaScript 框架
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse)- 是一个开源的自动化工具，用于改进网络应用的质量
 - [Hacker Tab](https://github.com/huchenme/hacker-tab-extension)- 查询最新的热门开源项目
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)- json美化
-## 工具
-::: tip 说明
-工欲善其事，必先利其器。根据自己的喜好选择！！！没有一一列举
-:::
-### 在线开发
-- [Codesandbox](https://codesandbox.io/)- 在线快速 Web 开发
-- [Bit.dev](https://bit.dev/)- 目前支持 React、Vue、Angular、Node 及其他 JavaScript 框架
-- [Stackblitz- 在线 IDE](https://stackblitz.com/)- 支持一键配置 Angular、React、Ionic、TypeScript、RxJS、Svelte 等 JavaScript 框架
-- [Codepen](https://codepen.io/)- 在线编辑器界面
-- [Jsfiddle](https://jsfiddle.net/)
-- [Jsrun](https://jsrun.net/)
-### web
-- [VScode](https://vscode.en.softonic.com/download)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Webstorm](https://www.jetbrains.com/webstorm/)
-- [Hbuilderx](https://www.dcloud.io/hbuilderx.html)
-
-### 小程序
-- [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html)
-- [字节小程序工具](https://microapp.bytedance.com/docs/zh-CN/mini-app/develop/developer-instrument/download/developer-instrument-update-and-download/)
-- [支付宝小程序工具](https://opendocs.alipay.com/mini/ide/download)
-- [QQ小程序工具](https://q.qq.com/wiki/tools/devtool/)
-- [智能小程序工具](https://smartprogram.baidu.com/docs/develop/devtools/history/)
-
-### vscode插件
-- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)- 主题色
-- [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)- 文件图标
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)- 脚本代码检查
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)- 美化代码
-- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)- css格式化
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)- vue必备
-- [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets)- vue3必备
-- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)- 自动导入
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)- 自动补全标签
-
