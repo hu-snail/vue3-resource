@@ -1,1 +1,2 @@
-*.shell linguist-language=Vue
+*.md linguist-language=vue
+*.html linguist-language=vue
