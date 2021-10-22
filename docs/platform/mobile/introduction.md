@@ -5,6 +5,6 @@
 :::
 
 ### web资源目录
-- [UI库](/platform/mobile/ui)
-- [滚动组件](/platform/mobile/scroll)
-- [配套资源](/platform/mobile/include)
+- [UI库](/vue3-resource/platform/mobile/ui)
+- [滚动组件](/vue3-resource/platform/mobile/scroll)
+- [配套资源](/vue3-resource/platform/mobile/include)

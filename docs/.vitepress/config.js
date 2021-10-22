@@ -104,7 +104,7 @@
         },
         { 
           text: '文档&工具',
-          link: '/platform/docs&tool/introduction',
+          link: '/platform/docs&tool/docs',
           items: [{
             text: '文档',
             link: '/platform/docs&tool/docs',
@@ -230,7 +230,7 @@
             },
             { 
               text: '文档&工具',
-              link: '/platform/docs&tool/introduction',
+              link: '/platform/docs&tool/docs',
               children: [{
                 text: '文档',
                 link: '/platform/docs&tool/docs',
