@@ -23,11 +23,8 @@
         { text: '总览', link: '/platform/introduction'},
         { 
           text: 'web端',
-          link: '/platform/web/introduction',
+          link: '/platform/web/ui',
           items: [{
-            text: '说明',
-            link: '/platform/web/introduction',
-          }, {
             text: 'UI库',
             link: '/platform/web/ui',
           }, {
@@ -76,7 +73,7 @@
         },
         { 
           text: '移动端',
-          link: '/platform/mobile/introduction',
+          link: '/platform/mobile/ui',
           items: [{
             text: 'UI库',
             link: '/platform/mobile/ui',
@@ -131,11 +128,8 @@
             },
             {
               text: 'web端',
-              link: '/platform/web/introduction',
-              children: [{
-                  text: '说明',
-                  link: '/platform/web/introduction',
-                },
+              link: '/platform/web/ui',
+              children: [
                 {
                   text: 'UI库',
                   link: '/platform/web/ui',
@@ -186,7 +180,7 @@
             },
             {
               text: '移动端',
-              link: '/platform/mobile/introduction',
+              link: '/platform/mobile/ui',
               children: [{
                 text: 'UI库',
                 link: '/platform/mobile/ui',
