@@ -30,6 +30,15 @@
 - 开箱即用的高质量 Vue 组件。
 - 共享 Ant Design of React 设计工具体系。
 
+## Quasar
+构建高性能的 VueJS 用户界面,开箱即用,支持桌面和**移动浏览器**（包括 iOS Safari！）
+
+![start](https://img.shields.io/github/stars/quasarframework/quasar?style=social)
+
+#### 资源地址
+- 官方文档：[文档地址](https://quasar.dev/introduction-to-quasar)
+- 仓库资源：[github地址](https://github.com/quasarframework/quasar)
+
 ## Naive UI
 `Naive UI` 一个 Vue 3 组件库，比较完整，主题可调，使用 TypeScript，不算太慢,有点意思
 
