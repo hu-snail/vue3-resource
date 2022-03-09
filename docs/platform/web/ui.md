@@ -80,6 +80,25 @@ Element3，一套为开发者、设计师和产品经理准备的基于 Vue 3.0 
 - 官方文档：[文档地址](https://element3-ui.com/#/)
 - 仓库资源：[github 地址](https://github.com/hug-sun/element3)
 
+## Heyui
+
+HeyUI@2.0 是一套基于 Vue3.0 的开源 UI 组件库，主要服务于一些中后台产品。
+
+![start](https://img.shields.io/github/stars/heyui/heyui?style=social)
+
+#### 资源地址
+
+- 官方文档：[文档地址](https://v2.heyui.top/component/guide)
+- 仓库资源：[github 地址](https://github.com/heyui/heyui)
+
+#### 特性
+
+HeyUI 提供的是一整套解决方案，所有的组件提供全局的可配置模式。
+
+- 真正的数据驱动。
+- 全局的配置模式。
+- 数据字典化。
+
 ## BalmUI
 
 `BalmUI` 是为 Vue.js 3.0 量身订制的模块化且高可定制化的 Material Design UI 库。
