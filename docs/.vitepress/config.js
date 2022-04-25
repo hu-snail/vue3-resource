@@ -269,6 +269,15 @@
       ],
       ['meta', { name: 'keywords', content: 'vue3 vue' }],
       ['link', { rel: 'icon', href: '/favicon.ico' }],
+      ['script', {}, `
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?4e06984ebfbe9707169ce9e60e4c8add";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+      `]
     ];
   }
   
