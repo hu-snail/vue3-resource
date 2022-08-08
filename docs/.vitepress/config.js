@@ -3,12 +3,12 @@
  * @type {import('vitepress').UserConfig}
  */
  module.exports = {
-    base: '/vue3-resource',
+    base: '/vue3-resource/',
     title: 'Vue3-resource',
     lang: 'zh-CN',
     description: '收集vue3资源，包含web端&移动端&小程序&Electron等栏目',
     head: createHead(),
-    themeConfig: {
+    themeConfig: { 
       // algolia: {
       //   apiKey: '1885f2f9da49911be5abd90180426414',
       //   indexName: 'vue3-resource'
@@ -52,10 +52,10 @@
             link: '/platform/web/upload',
           }, {
             text: '图片/背景组件',
-            link: '/platform/web/img&bg',
+            link: '/platform/web/img-bg',
           }, {
             text: '音频/视频组件',
-            link: '/platform/web/audio&video',
+            link: '/platform/web/audio-video',
           }, {
             text: '图标库',
             link: '/platform/web/icons',
@@ -112,13 +112,13 @@
           text: '文档&工具',
           items: [{
             text: '文档',
-            link: '/platform/docs&tool/docs',
+            link: '/platform/toolmd/docs',
           }, {
             text: '工具',
-            link: '/platform/docs&tool/tool',
+            link: '/platform/toolmd/tool',
           }, {
             text: 'vscode插件',
-            link: '/platform/docs&tool/vscode',
+            link: '/platform/toolmd/vscode',
           }]
         },
         { text: '常用库', link: '/platform/common' },
@@ -155,10 +155,10 @@
               link: '/platform/web/upload',
             }, {
               text: '图片/背景组件',
-              link: '/platform/web/img&bg',
+              link: '/platform/web/img-bg',
             }, {
               text: '音频/视频组件',
-              link: '/platform/web/audio&video',
+              link: '/platform/web/audio-video',
             }, {
               text: '图标库',
               link: '/platform/web/icons',
@@ -221,13 +221,13 @@
             collapsed: true,
             items: [{
               text: '文档',
-              link: '/platform/docs&tool/docs',
+              link: '/platform/toolmd/docs',
             }, {
               text: '工具',
-              link: '/platform/docs&tool/tool',
+              link: '/platform/toolmd/tool',
             }, {
               text: 'vscode插件',
-              link: '/platform/docs&tool/vscode',
+              link: '/platform/toolmd/vscode',
             }]
           },
           { 
@@ -281,10 +281,10 @@
                 link: '/platform/web/upload',
               }, {
                 text: '图片/背景组件',
-                link: '/platform/web/img&bg',
+                link: '/platform/web/img-bg',
               }, {
                 text: '音频/视频组件',
-                link: '/platform/web/audio&video',
+                link: '/platform/web/audio-video',
               }, {
                 text: '图标库',
                 link: '/platform/web/icons',
@@ -344,18 +344,18 @@
             }]
           }
         ],
-        '/platform/docs&tool': [
+        '/platform/toolmd': [
           {
             text: '文档&工具',
             items: [{
               text: '文档',
-              link: '/platform/docs&tool/docs',
+              link: '/platform/toolmd/docs',
             }, {
               text: '工具',
-              link: '/platform/docs&tool/tool',
+              link: '/platform/toolmd/tool',
             }, {
               text: 'vscode插件',
-              link: '/platform/docs&tool/vscode',
+              link: '/platform/toolmd/vscode',
             }]
           }
         ]
