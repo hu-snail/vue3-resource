@@ -12,10 +12,10 @@
     "docs:serve": "vitepress serve docs",
     "deploy-gh": "GH=1 yarn docs:build && bash deploy-gh.sh"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "vitepress": "^0.20.0"
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.4"
   },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hu-snail/vue3-resource.git"
