@@ -235,7 +235,7 @@
             collapsible: true,
             collapsed: true,
             items: [{
-              text: '文档',
+              text: '常用库',
               link: '/platform/common',
             }]
           },
