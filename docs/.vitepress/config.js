@@ -9,10 +9,11 @@
     description: '收集vue3资源，包含web端&移动端&小程序&Electron等栏目',
     head: createHead(),
     themeConfig: { 
-      // algolia: {
-      //   apiKey: '1885f2f9da49911be5abd90180426414',
-      //   indexName: 'vue3-resource'
-      // },
+      algolia: {
+        appId: 'PEWR8V41JZ',
+        apiKey: 'e785d40eb5f19238410be94fd745ca9d',
+        indexName: 'vue3-resource'
+      },
       repo: 'hu-snail/vue3-resource',
       docsRepo: 'hu-snail/vue3-resource',
       docsBranch: 'main/docs',
@@ -379,6 +380,7 @@
         },
       ],
       ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }],
+      ['link', { rel: 'stylesheet', type: 'image/svg+xml', href: 'https://cdn.jsdelivr.net/npm/@docsearch/css@3' }],
       [
         'meta',
         {
@@ -394,6 +396,7 @@
         (function() {
           var hm = document.createElement("script");
           hm.src = "https://hm.baidu.com/hm.js?4e06984ebfbe9707169ce9e60e4c8add";
+          hm.src = "https://cdn.jsdelivr.net/npm/@docsearch/js@3";
           var s = document.getElementsByTagName("script")[0]; 
           s.parentNode.insertBefore(hm, s);
         })();
