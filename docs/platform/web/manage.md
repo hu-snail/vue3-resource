@@ -14,7 +14,7 @@
 - 仓库资源：
     - [github地址](https://github.com/hu-snail/vue3-admin-element-template)
     - [gitee地址](https://gitee.com/hu-snail/vue3-admin-element-template)
-- 预览地址：[预览地址](https://hu-snail.github.io/vue3-admin-element-template/dist/index.html)
+- 预览地址：[预览地址](https://hu-snail.gitee.io/vue3-admin-element-template/#/)
 
 #### 特性
 - 最新技术栈：vue3/vite2
