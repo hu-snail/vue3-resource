@@ -69,7 +69,7 @@ md5加密，支持 UTF-8 编码
 
 ![start](https://img.shields.io/github/stars/gruns/ImmortalDB?style=social)
 #### 资源地址 
-- 官方文档：[官方文档地址](https://github.com/eligrey/FileSaver.js#readme)
+- 官方文档：[官方文档地址](https://github.com/gruns/ImmortalDB#readme)
 - 仓库资源：[github地址](https://github.com/gruns/ImmortalDB)
 
 ## FileSaver.js- 文件下载
