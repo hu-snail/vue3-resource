@@ -89,6 +89,9 @@
             text: 'UI库',
             link: '/platform/mobile/ui',
           }, {
+            text: '图表库',
+            link: '/platform/mobile/echart',
+          }, {
             text: '开源项目',
             link: '/platform/mobile/project',
           }, {
@@ -193,6 +196,9 @@
             items: [{
               text: 'UI库',
               link: '/platform/mobile/ui',
+            }, {
+              text: '图表库',
+              link: '/platform/mobile/echart',
             }, {
               text: '开源项目',
               link: '/platform/mobile/project',
@@ -321,6 +327,9 @@
             items: [{
               text: 'UI库',
               link: '/platform/mobile/ui',
+            }, {
+              text: '图表库',
+              link: '/platform/mobile/echart',
             }, {
               text: '开源项目',
               link: '/platform/mobile/project',
