@@ -1,8 +1,8 @@
 # UI库
 ## Vant
 `Vant`是有赞前端团队开源的移动端组件库，于 2017 年开源，已持续维护 4 年时间。Vant 对内承载了有赞所有核心业务，对外服务十多万开发者，是业界主流的移动端组件库之一。
-
 ![start](https://img.shields.io/github/stars/youzan/vant?style=social)
+
 #### 资源地址
 - 官方文档：[vue3版本文档](https://vant-contrib.gitee.io/vant/v3/#/zh-CN)
 - 仓库资源：

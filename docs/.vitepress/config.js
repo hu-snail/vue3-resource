@@ -88,6 +88,12 @@
           items: [{
             text: 'UI库',
             link: '/platform/mobile/ui',
+          },{
+            text: '表单组件',
+            link: '/platform/mobile/form',
+          }, {
+            text: '图片组件',
+            link: '/platform/mobile/img',
           }, {
             text: '开源项目',
             link: '/platform/mobile/project',
@@ -193,6 +199,12 @@
             items: [{
               text: 'UI库',
               link: '/platform/mobile/ui',
+            }, {
+              text: '表单组件',
+              link: '/platform/mobile/form',
+            }, {
+              text: '图片组件',
+              link: '/platform/mobile/img',
             }, {
               text: '开源项目',
               link: '/platform/mobile/project',
@@ -321,6 +333,12 @@
             items: [{
               text: 'UI库',
               link: '/platform/mobile/ui',
+            }, {
+              text: '表单组件',
+              link: '/platform/mobile/form',
+            }, {
+              text: '图片组件',
+              link: '/platform/mobile/img',
             }, {
               text: '开源项目',
               link: '/platform/mobile/project',
