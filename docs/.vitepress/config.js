@@ -95,6 +95,9 @@
             text: '图片组件',
             link: '/platform/mobile/img',
           }, {
+            text: '图表库',
+            link: '/platform/mobile/echart',
+          }, {
             text: '开源项目',
             link: '/platform/mobile/project',
           }, {
@@ -205,6 +208,10 @@
             }, {
               text: '图片组件',
               link: '/platform/mobile/img',
+             
+            }, {
+              text: '图表库',
+              link: '/platform/mobile/echart',
             }, {
               text: '开源项目',
               link: '/platform/mobile/project',
@@ -339,6 +346,10 @@
             }, {
               text: '图片组件',
               link: '/platform/mobile/img',
+             
+            }, {
+              text: '图表库',
+              link: '/platform/mobile/echart',
             }, {
               text: '开源项目',
               link: '/platform/mobile/project',
